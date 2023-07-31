@@ -14,13 +14,18 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="m desired displacement" />
+      <item value="m jump horizontal speed ratio" />
+      <item value="m sprint acceleration" />
+      <item value="m move acceleration" />
+      <item value="m half extents" />
       <item value="renderer Tick" />
       <item value="calculate FPS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
