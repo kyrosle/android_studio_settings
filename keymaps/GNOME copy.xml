@@ -1,0 +1,23 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Debugger.EditFrameSource" />
+  <action id="Documentation.EditSource" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource" />
+  <action id="ExternalSystem.OpenConfig" />
+  <action id="NavBar-navigate" />
+  <action id="OpenModuleSettings" />
+  <action id="ProjectViewEditSource" />
+  <action id="UpdateRunningApplication" />
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>

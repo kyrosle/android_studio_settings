@@ -1,0 +1,48 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="AcceptTabnineInlineCompletionAction">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
+  <action id="BraceOrQuoteOut" />
+  <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorIndentSelection" />
+  <action id="EditorTab">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="ExpandLiveTemplateByTab" />
+  <action id="FileStructurePopup" />
+  <action id="FindInPath" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="MaximizeToolWindow" />
+  <action id="NextParameter" />
+  <action id="NextTemplateParameter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="PrevParameter" />
+  <action id="PreviousTemplateVariable" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="SearchEverywhere.CompleteCommand" />
+  <action id="SearchEverywhere.NextTab" />
+  <action id="SearchEverywhere.PrevTab" />
+  <action id="ShowNavBar" />
+  <action id="SplitChooser.NextWindow" />
+  <action id="SplitChooser.PreviousWindow" />
+  <action id="Tab" />
+</keymap>

@@ -1,0 +1,5 @@
+<application>
+  <component name="LafManager" autodetect="false">
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="74627168-ab4f-4407-9ca5-4c1e6b09fbef" />
+  </component>
+</application>
