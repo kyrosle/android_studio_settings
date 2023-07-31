@@ -57,6 +57,7 @@
   <action id="NextTemplateParameter">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="OpenFile" />
   <action id="OpenModuleSettings" />
   <action id="Pause" />
   <action id="PrevParameter" />
@@ -84,6 +85,9 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="ShowNavBar" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="SplitChooser.NextWindow" />
   <action id="SplitChooser.PreviousWindow" />
   <action id="Sql.EditParameter" />
