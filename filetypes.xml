@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="fs" type="GLSL shader" />
+      <mapping ext="vs" type="GLSL shader" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="fs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>

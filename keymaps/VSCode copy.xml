@@ -12,7 +12,19 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
   </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="BraceOrQuoteOut" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Debug" />
+  <action id="Debugger.EditFrameSource" />
+  <action id="Documentation.EditSource" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
@@ -29,33 +41,56 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="ExpandLiveTemplateByTab" />
+  <action id="ExternalSystem.OpenConfig" />
   <action id="FileStructurePopup" />
   <action id="FindInPath" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="MaximizeToolWindow" />
+  <action id="NavBar-navigate" />
   <action id="NextParameter" />
   <action id="NextTemplateParameter">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="OpenModuleSettings" />
+  <action id="Pause" />
   <action id="PrevParameter" />
   <action id="PreviousTemplateVariable" />
+  <action id="ProblemsView.QuickFixes">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="ProjectViewEditSource" />
+  <action id="RefreshLinkedCppProjects">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="Resume" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
   <action id="SearchEverywhere.CompleteCommand" />
   <action id="SearchEverywhere.NextTab" />
   <action id="SearchEverywhere.PrevTab" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="ShowNavBar" />
   <action id="SplitChooser.NextWindow" />
   <action id="SplitChooser.PreviousWindow" />
+  <action id="Sql.EditParameter" />
   <action id="Tab" />
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
