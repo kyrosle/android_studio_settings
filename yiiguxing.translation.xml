@@ -1,0 +1,20 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1690800394301" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6554252e6d289223" />
+      </youdao-translate>
+    </option>
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="calculate FPS" />
+    </histories>
+  </component>
+</application>
