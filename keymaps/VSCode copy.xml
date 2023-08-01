@@ -19,6 +19,10 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="Debug" />
   <action id="Debugger.EditFrameSource" />
   <action id="Documentation.EditSource" />
