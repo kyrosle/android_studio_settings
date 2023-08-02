@@ -3,7 +3,7 @@
     <property name="created">2023-07-31T18:15:17</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.2.1.19</property>
-    <property name="modified">2023-07-31T18:38:11</property>
+    <property name="modified">2023-08-02T15:08:09</property>
     <property name="originalScheme">poimandres</property>
   </metaInfo>
   <colors>
@@ -350,7 +350,7 @@
     </option>
     <option name="Doxygen Comment">
       <value>
-        <option name="FOREGROUND" value="3b6834" />
+        <option name="FOREGROUND" value="47933b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -513,13 +513,13 @@
     </option>
     <option name="OC.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="3b6834" />
+        <option name="FOREGROUND" value="47933b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="3b6834" />
+        <option name="FOREGROUND" value="47933b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
