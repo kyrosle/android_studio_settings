@@ -5,6 +5,7 @@
       <w>gobjects</w>
       <w>imgui</w>
       <w>iter</w>
+      <w>rigidbody</w>
     </words>
   </component>
 </application>
