@@ -14,6 +14,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="code" />
+      <item value="blank" />
+      <item value="bla" />
+      <item value="bland" />
       <item value="m instanced components" />
       <item value="m desired displacement" />
       <item value="m jump horizontal speed ratio" />
