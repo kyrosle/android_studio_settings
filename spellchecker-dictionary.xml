@@ -4,9 +4,11 @@
       <w>descs</w>
       <w>gobjects</w>
       <w>imgui</w>
+      <w>infos</w>
       <w>iter</w>
       <w>rigidbody</w>
       <w>srgb</w>
+      <w>unints</w>
     </words>
   </component>
 </application>
