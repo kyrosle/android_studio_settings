@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690800394301" />
+    <option name="lastTrimTime" value="1691736358068" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -14,6 +14,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="dirtied" />
       <item value="reorganize" />
       <item value="m visible nodes" />
       <item value="code" />
@@ -31,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
